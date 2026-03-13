@@ -38,8 +38,8 @@ Ouvre ton terminal WSL Ubuntu et lance :
 
 ```bash
 # Cloner le repo
-git clone https://github.com/TON_USERNAME/tp-elasticsearch.git
-cd tp-elasticsearch
+https://github.com/ayaeljahidi/ElasticSearch.git
+cd ElasticSearch
 
 # Rendre le script exécutable
 chmod +x setup_elasticsearch.sh
@@ -52,10 +52,10 @@ source ~/.bashrc
 ```
 
 Le script installe automatiquement :
-- ✅ OpenJDK 17
-- ✅ Elasticsearch 8.x
-- ✅ Kibana 8.x
-- ✅ Les commandes `es-start`, `es-stop`, `es-status`, `es-reset`
+-  OpenJDK 17
+-  Elasticsearch 8.x
+-  Kibana 8.x
+-  Les commandes `es-start`, `es-stop`, `es-status`, `es-reset`
 
 ---
 
