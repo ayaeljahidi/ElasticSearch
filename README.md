@@ -1,7 +1,6 @@
 
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-8.x-005571?style=flat&logo=elasticsearch)
 ![Kibana](https://img.shields.io/badge/Kibana-8.x-005571?style=flat&logo=kibana)
-![Java](https://img.shields.io/badge/Java-17-ED8B00?style=flat&logo=java)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-WSL2-E95420?style=flat&logo=ubuntu)
 
 ## Lancer Elasticsearch + Kibana
